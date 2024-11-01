@@ -7,11 +7,11 @@
 		"desc": "",
 		"id": 408,
 		"lisense": "",
-		"lisenseLink": "",
+		"lisenseLink": "https://9e7kayg.d7bcy96.workers.dev/+Q+6W5R3kLoPhe8q:RNo7wCgfMArl+1lM2ig4Oenjec179v8Gk8FiR6uLulRoMbs5XOROtUy5o0g=",
 		"name": "LUCKY NEKO-Android",
 		"order": 190000,
 		"parentChapterId": 407,
 		"type": 0,
-		"userControlSetTop": false,
+		"userControlSetTop": true,
 		"visible": 0
 }
