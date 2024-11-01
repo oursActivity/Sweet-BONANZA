@@ -11,7 +11,7 @@
 		"name": "LUCKY NEKO-Android",
 		"order": 190000,
 		"parentChapterId": 407,
-		"type": 0,
+		"type": 3,
 		"userControlSetTop": false,
 		"visible": 0
 }
